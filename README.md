@@ -1,5 +1,5 @@
 # Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)
-Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/05/22.
+Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/05/25.
 
 
 [Learning and Evaluating Contextual Embedding of Source Code](https://arxiv.org/abs/2001.00059), \[[code](https://github.com/google-research/google-research/tree/master/cubert)\] ICML 2020 (CuBERT)
@@ -34,9 +34,13 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/05/22.
 
 [Generating Bug-Fixes Using Pretrained Transformers](https://arxiv.org/abs/2104.07896), arXiv 2021/04
 
+[Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks](https://arxiv.org/abs/2102.02017), ICSE 2021
+
 [CodeTrans: Towards Cracking the Language of Silicone’s Code Through Self-Supervised Deep Learning and High Performance Computing](https://arxiv.org/abs/2104.02443), \[[code](https://github.com/agemagician/CodeTrans)\] arXiv 2021/04 (CodeTrans)
 
 [How could Neural Networks understand Programs?](https://arxiv.org/pdf/2105.04297.pdf), \[[code](https://github.com/pdlan/OSCAR)\] ICML 2021 (OSCAR)
+
+[Measuring Coding Challenge Competence With APPS](https://arxiv.org/pdf/2105.09938.pdf), arXiv 2021/05
 
 
 
