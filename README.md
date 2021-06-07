@@ -32,20 +32,27 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/06/07.
 
 
 ## Task-specific PL-PTMs
-[Multi-task Learning based Pre-trained Language Model for Code Completion](https://arxiv.org/abs/2012.14631), ASE 2020 (CugLM)
+**Code Completion:** [Multi-task Learning based Pre-trained Language Model for Code Completion](https://arxiv.org/abs/2012.14631), ASE 2020 (CugLM)
 
-[IntelliCode Compose: Code Generation using Transformer](https://arxiv.org/abs/2005.08025), FSE 2020 (IntelliCode Compose)
+**Code Completion:** [IntelliCode Compose: Code Generation using Transformer](https://arxiv.org/abs/2005.08025), FSE 2020 (IntelliCode Compose)
 
-[Generating Bug-Fixes Using Pretrained Transformers](https://arxiv.org/abs/2104.07896), arXiv 2021/04 (DeepCode)
+**Code Completion:** [Improving Code Autocompletion with Transfer Learning](https://arxiv.org/abs/2105.05991), arXiv 2021/05
 
-[DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation, and Code Skeletons](https://arxiv.org/pdf/2105.09352.pdf), arXiv 2021/05 (DeepDebug)
+**Program Repair:** [Generating Bug-Fixes Using Pretrained Transformers](https://arxiv.org/abs/2104.07896), arXiv 2021/04 (DeepCode)
+
+**Program Repair:** [DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation, and Code Skeletons](https://arxiv.org/pdf/2105.09352.pdf), arXiv 2021/05 (DeepDebug)
 
 
-## Other Transformer-based models for code-related tasks
+
+## Other Deep Models for Code-related Tasks
 
 [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/abs/2103.11318), \[[code](https://github.com/danielzuegner/code-transformer)\] ICLR 2021 (Code Transformer)
 
 [GN-Transformer: Fusing AST and Source Code information in Graph Networks](https://openreview.net/forum?id=XavM6v_q59q), openreview 2020/09 (GN-Transformer)
+
+**Program Repair:** [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB), ICLR 2020 (HOPPITY)
+
+
 
 
 ## Benchmarks & Datasets
