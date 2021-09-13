@@ -1,5 +1,5 @@
 # Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)
-Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/07/12.
+Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/09/13.
 
 ## General PL-PTMs
 
@@ -30,6 +30,11 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/07/12.
 [How could Neural Networks understand Programs?](https://arxiv.org/pdf/2105.04297.pdf), \[[code](https://github.com/pdlan/OSCAR)\] ICML 2021 (OSCAR)
 
 [CoTexT: Multi-task Learning with Code-Text Transformer](https://arxiv.org/abs/2105.08645), arXiv 2021/05 (CoTexT)
+
+[Disentangled Code Representation Learning for Multiple Programming Languages](https://aclanthology.org/2021.findings-acl.391.pdf), ACL-Fingings 2021 (CODEDISEN)
+
+[SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation](https://arxiv.org/pdf/2108.04556v3.pdf), arXiv 2021/09 (SYNCOBERT)
+
 
 ## Task-specific PL-PTMs
 **Code Completion:** [Multi-task Learning based Pre-trained Language Model for Code Completion](https://arxiv.org/abs/2012.14631), ASE 2020 (CugLM)
