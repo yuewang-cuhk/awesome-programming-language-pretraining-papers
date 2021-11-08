@@ -1,5 +1,5 @@
 # Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)
-Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/09/13.
+Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/11/08.
 
 ## General PL-PTMs
 
@@ -47,7 +47,13 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/09/13.
 
 **Program Repair:** [DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation, and Code Skeletons](https://arxiv.org/pdf/2105.09352.pdf), arXiv 2021/05 (DeepDebug)
 
+**Program Repair:** [TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer](https://files.sri.inf.ethz.ch/website/papers/icml21-tfix.pdf), ICML 2021
+
+**Unit Test Generation:** [Unit Test Case Generation with Transformers and Focal Context](https://arxiv.org/pdf/2009.05617.pdf), arXiv 2021/05
+
 **Code Generation:** [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374), arXiv 2021/07 (Codex)
+
+**Code Generation:** [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732), arXiv 2021/08
 
 
 
