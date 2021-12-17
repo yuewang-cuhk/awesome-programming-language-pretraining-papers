@@ -1,5 +1,5 @@
 # Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)
-Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/11/08.
+Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/12/17.
 
 ## General PL-PTMs
 
@@ -35,6 +35,10 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/11/08.
 
 [SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation](https://arxiv.org/pdf/2108.04556v3.pdf), arXiv 2021/09 (SYNCOBERT)
 
+[TreeBERT: A Tree-Based Pre-Trained Model for Programming Language](https://arxiv.org/abs/2105.12485), UAI 2021
+
+[CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/pdf/2109.00859.pdf), EMNLP 2021 \[[code](https://github.com/salesforce/CodeT5)\] \[[blog](https://blog.einstein.ai/codet5/)\] \[[media](https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/)\]\[[slide](https://yuewang-cuhk.github.io/file/CodeT5_final_slide_p20.pdf)\]\[[poster](https://yuewang-cuhk.github.io/file/CodeT5_Poster.pdf)\]
+
 
 ## Task-specific PL-PTMs
 **Code Completion:** [Multi-task Learning based Pre-trained Language Model for Code Completion](https://arxiv.org/abs/2012.14631), ASE 2020 (CugLM)
@@ -48,6 +52,8 @@ Maintained by WANG Yue (wangyue2714@gmail.com). Last update on 2021/11/08.
 **Program Repair:** [DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation, and Code Skeletons](https://arxiv.org/pdf/2105.09352.pdf), arXiv 2021/05 (DeepDebug)
 
 **Program Repair:** [TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer](https://files.sri.inf.ethz.ch/website/papers/icml21-tfix.pdf), ICML 2021
+
+**Program Repair:** [CURE: Code-Aware Neural Machine Translation for Automatic Program Repair](https://arxiv.org/abs/2103.00073), ICSE 2021
 
 **Unit Test Generation:** [Unit Test Case Generation with Transformers and Focal Context](https://arxiv.org/pdf/2009.05617.pdf), arXiv 2021/05
 
